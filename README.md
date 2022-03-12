@@ -1,0 +1,1 @@
+# average_using_1D_array_in_c
